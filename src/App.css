@@ -1,11 +1,10 @@
-body{
+body {
   background: #e9eaed;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 
-.App{
+.App {
   width: 70%;
-  margin:0 auto;
-  /* border: 1px solid #333; */
-
+  margin: 0 auto;
+  border: 1px solid #333;
 }
